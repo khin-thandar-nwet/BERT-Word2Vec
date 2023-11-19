@@ -5,5 +5,6 @@
 # Environment
 **I did all of this project on Google Colaboratory. Check it out in this link:
 
-**Bert and Word2Vec  on Google Colab
+** <href> Bert and Word2Vec <href>  on Google Colab
+
 
